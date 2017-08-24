@@ -1,0 +1,51 @@
+body{
+     font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
+ 	 color: #003366;
+}
+
+h1  {
+    font-size: 3em;
+ 	text-align: left;
+}
+
+table {
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	text-align: left;
+ 	border-collapse: collapse;
+}
+
+tr   {
+	border: 0px ;
+	text-align: left;
+	background-color:#DE0129;
+}
+
+th   {
+    text-align: left;
+	color: #ffffff;
+	background-color: #333333;
+}
+
+div.small {
+    word-wrap: break-word;
+    width: 800px;
+}
+
+div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: #CBE319;
+    text-align: center;
+    padding: 20px;
+    text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+    background-color: #7AEFFF;
+}
